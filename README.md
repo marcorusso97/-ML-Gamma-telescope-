@@ -12,3 +12,6 @@ Techniques that I compared:
 - Random forests
 
 Accuracies were compared performing Stratified k-CV. Data were preprocessed with nonlinear transformations and the dimensionality was reduced with PCA.
+
+
+I used Python and Scikit-learn.
